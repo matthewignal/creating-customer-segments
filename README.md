@@ -1,4 +1,4 @@
-# Project 3: Unsupervised Learning
+# Unsupervised Learning
 ## Creating Customer Segments
 
 ### Install
@@ -11,8 +11,6 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-
-
 
 ### Run
 
